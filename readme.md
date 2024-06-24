@@ -1,6 +1,6 @@
 # Therapist Bot
 
-This bot uses Google Gemini API keys. Get your key at [https://ai.google.dev/gemini-api/docs/api-key](https://ai.google.dev/gemini-api/docs/api-key).
+This bot uses Google Gemini API keys. Get your key at [https://ai.google.dev/#develop-with-gemini](https://ai.google.dev/#develop-with-gemini).
 
 Then create a file under the `./src` folder named `.env`. The file will contain text formatted as this:
 
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Once everything is configured to run the program:
 
 ```
-python -m src
+python3 -m src
 ```
 
 ## Organization

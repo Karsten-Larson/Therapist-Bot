@@ -1,6 +1,6 @@
 
 if __name__ != "__main__":
-    raise ImportError("")
+    raise ImportError("This file cannot be imported")
 
 """
 Install the Google AI Python SDK
@@ -10,6 +10,7 @@ $ pip install google-generativeai
 See the getting started guide for more information:
 https://ai.google.dev/gemini-api/docs/get-started/python
 """
+
 import google.generativeai as genai
 
 import os
