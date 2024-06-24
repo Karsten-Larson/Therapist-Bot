@@ -21,7 +21,7 @@ This is not necessarily required but it helps keep your packages organized.
 Then enter the following command into the terminal to download the required packages.
 
 ```
-pip install -r ./requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Running Program
