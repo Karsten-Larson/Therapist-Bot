@@ -1,6 +1,6 @@
 # Therapist Bot
 
-This bot uses Google Gemini API keys. Get your key at [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey).
+This bot uses Google Gemini API keys. Get your key at [https://ai.google.dev/gemini-api/docs/api-key](https://ai.google.dev/gemini-api/docs/api-key).
 
 Then create a file under the `./src` folder named `.env`. The file will contain text formatted as this:
 
